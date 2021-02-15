@@ -1,0 +1,101 @@
+.container {
+  display: flex;
+}
+.container-2 {
+  display:flex;
+  margin-top:0;
+}
+h1 {
+  font-size: 35px;
+  color:#5c3656;
+  font-weight:bolder;
+}
+.header-text {
+  color:#a9adb0;
+  font-size:14px;
+  font-weight:light;
+  margin-top:0.6rem;
+  font-size:10px;
+  /* margin-top:1.2rem; */
+}
+.title {
+  margin-left:0;
+  margin-top:5%;
+  margin-right:0;
+  width:17rem;
+}
+.star-rating {
+  padding:4%;
+  margin-left:15%;
+}
+.first-sr {
+  background-color:#ededed;
+  height:2.8rem;
+  width:24rem;
+  margin-top:2rem;
+  margin-left:0;
+  margin-bottom:2rem;
+  text-align: center;
+  padding-top:0.6rem;
+  padding-bottom:0.6rem;
+}
+.second-sr {
+  background-color:#ededed;
+  height:2.8rem;
+  width:24rem;
+  margin-left:2.5rem;
+  margin-bottom:2rem;
+  text-align: center;
+  padding-top:0.6rem;
+  padding-bottom: 0.6rem;
+}
+.third-sr {
+  background-color:#ededed;
+  height:2.8rem;
+  width:24rem;
+  margin-left:5rem;
+  text-align: center;
+  padding-top:0.6rem;
+  padding-bottom:0.4rem;
+}
+img {
+  border-radius: 100%;
+  width:50px;
+  height:50px;
+  display:inline;
+}
+.customer-details{
+  margin-left:1rem;
+  margin-top:0;
+}
+.customer-image {
+  margin-top:1rem;
+}
+.set-card {
+  background-color:#612156;
+  margin-top:2rem;
+}
+.set-card-2 {
+  background-color:#612156;
+  margin-top:3.5rem;
+}
+.set-card-3 {
+  background-color:#612156;
+  margin-top:5rem;
+}
+.name {
+  font-size:0.8rem;
+  color:#fff;
+  font-weight:bolder;
+  margin-bottom: 0;
+}
+.card-text{
+  margin-top:0;
+  color:#9e3480;
+  font-weight:bold;
+  font-size:0.8rem;
+}
+.review {
+  color:#fff;
+  margin-top:0.5rem;
+}
